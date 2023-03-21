@@ -1,0 +1,34 @@
+{
+	"font_size": 14,
+	"font_face":"JetBrains Mono",
+	"font_options": [
+		"bold",
+    ],
+	"color_scheme": "Monokai Pro (Filter Machine).sublime-color-scheme",
+	"theme": "auto",
+	"ignored_packages":
+	[
+		"Vintage",
+    ],
+	"gutter_theme": "Packages/Theme - Monokai Pro/Monokai Pro.gutter-theme",
+    "styles": [
+        {
+            "mark_style": "none",
+            "priority": 1,
+            "scope": "region.orangish",
+            "icon": "warning",
+            "types": [
+                "warning"
+            ],
+        },
+        {
+            "mark_style": "none",
+            "priority": 1,
+            "scope": "region.redish",
+            "icon": "error",
+            "types": [
+                "error"
+            ],
+        }
+    ],
+}
